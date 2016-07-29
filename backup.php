@@ -32,8 +32,8 @@ $txtcolor1 = "#000000";
 $txtcolor2 = "#003399";
 $filefolder = "./";
 $sitetitle = 'php在线文件管理系统';
-$user = 'liangtianhua';
-$pass = 'liangtianhua2016';
+$user = 'username';
+$pass = 'yourpassword';
 $meurl = $_SERVER['PHP_SELF'];
 $me = end(explode('/',$meurl));
 
